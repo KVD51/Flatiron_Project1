@@ -43,7 +43,7 @@ Project is created with:
 * Jupyter Notebook
 	
 ## Setup
-To run this project, install it locally by forking this project and downloading. Run
+To run this project, install it locally by forking this project and downloading.
 
 ```
 $ cd ../yournewfolder
